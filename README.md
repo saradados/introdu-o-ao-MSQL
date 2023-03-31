@@ -1,0 +1,2 @@
+# Projeto-Varejo
+ MSQL
